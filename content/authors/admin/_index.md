@@ -29,10 +29,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ianmccloy/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+  - icon: brands/mastadon
+    url: https://infosec.exchange/@b33f
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
