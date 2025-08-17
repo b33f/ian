@@ -34,8 +34,8 @@ profiles:
   - icon: brands/github
     url: https://github.com/b33f
   - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+    url: ./blog/index.xml
+    label: Subscribe to my blog via Atom (RSS) feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -44,4 +44,4 @@ highlight_name: true
 website: ""
 ---
 
-Ian is product manager, leading product security at [Neo4j](https://neo4j.com) the world leading graph database platform. The advice, perspectives and opinions shared here are my own and do not represent the views of Neo4j.
+Ian is a product manager, leading product security at [Neo4j](https://neo4j.com) the world leading graph database platform. The advice, perspectives and opinions shared here are my own and do not represent the views of Neo4j.
