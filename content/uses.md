@@ -17,20 +17,19 @@ If I get asked about what software or hardware I use this page will serve as a l
 - Code Repo: [GitHub](https://github.com/b33f/ian/)
 - Hosting / Caching / Security: [Cloudflare Pages](https://pages.cloudflare.com/)
 
-## OS Platform
+## OS Platform and browser
 
 I'm a polygot, and try not to focus on a single platform.  These are ordered in what I use most to least.
 
-- MacOS 26 + Kali Linux VM
+- MacOS + Kali Linux VM
 - ChromeOS /w Debian Linux dev environment
-- Windows 11
+- Windows Desktop
 
-
-## Browser
+And on all of them I use the same browser
 
 - [Brave](https://brave.com/) a privacy focused web browser, fork of Chrome
 
-## Useful CyberSecurity Tools
+## Useful Cybersecurity Tools
 
 - [Kali](https://www.kali.org/) – A Linux distribution packed with penetration testing and security auditing tools.
 - [Metasploit](https://www.metasploit.com/) – A framework for developing, testing, and executing exploit code against target systems.
