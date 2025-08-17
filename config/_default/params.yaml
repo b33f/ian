@@ -56,5 +56,5 @@ features:
     enable: false
   repository:
     url: 'https://github.com/b33f/ian'
-    content_dir: content/blog
+    content_dir: content
     branch: main
