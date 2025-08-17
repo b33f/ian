@@ -31,6 +31,8 @@ profiles:
     url: https://www.linkedin.com/in/ianmccloy/
   - icon: brands/mastodon
     url: https://infosec.exchange/@b33f
+  - icon: brands/github
+    url: https://github.com/b33f
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
