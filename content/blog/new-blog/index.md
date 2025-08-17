@@ -16,3 +16,4 @@ tags:
 ---
 
 Welcome to the future 👋
+It's going to be great
