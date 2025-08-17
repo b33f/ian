@@ -13,9 +13,9 @@ If I get asked about what software or hardware I use this page will serve as a l
 
 ## Website
 
-- Static Site Generator: [Hugo Blox](https://hugoblox.com)
-- Code Repo: [GitHub](https://github.com/b33f/ian/)
-- Hosting / Caching / Security: [Cloudflare Pages](https://pages.cloudflare.com/)
+- [Hugo Blox](https://hugoblox.com): Static Site Generator
+- [GitHub](https://github.com/b33f/ian/): Code Repo
+- [Cloudflare Pages](https://pages.cloudflare.com/): Hosting / Caching / Security
 
 ## OS Platform and browser
 
