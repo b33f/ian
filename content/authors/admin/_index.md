@@ -22,7 +22,7 @@ organizations:
     url: https://neo4j.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Ian lives in the United Kingdom with his wife and 2 kids.  Ian has a focus on Database Security but has a vast range of experience as a Software Engineer, Technical Support Engineer, Quality Assurance Engineer and Systems Administrator. Ian has led global technical teams for the majority of his 20 year professional career and holds several patents in the areas of cybersecurity, virtualisation and server hardware design.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
