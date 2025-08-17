@@ -1,7 +1,7 @@
 ---
 title: 🎉 Introduction to the blog
 summary: Published a post to the new blog site
-date: 2023-08-17
+date: 2025-08-17
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
