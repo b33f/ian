@@ -29,7 +29,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ianmccloy/
-  - icon: brands/mastadon
+  - icon: brands/mastodon
     url: https://infosec.exchange/@b33f
   - icon: rss
     url: ./post/index.xml
