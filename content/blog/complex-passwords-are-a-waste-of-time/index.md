@@ -1,7 +1,7 @@
 ---
 title: 🔒 Complex passwords are a waste of time
 summary: Believe it or not, a strong password does not really secure your online accounts
-date: 2023-08-18
+date: 2025-08-18
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
