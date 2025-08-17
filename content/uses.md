@@ -13,10 +13,27 @@ If I get asked about what software or hardware I use this page will serve as a l
 
 ## Website
 
-- Static Site Generator [Hugo Blox](https://hugoblox.com)
-- Code Repo [GitHub](https://github.com/b33f/ian/)
-- Publishing [Cloudflare Pages](https://pages.cloudflare.com/)
+- Static Site Generator: [Hugo Blox](https://hugoblox.com)
+- Code Repo: [GitHub](https://github.com/b33f/ian/)
+- Hosting / Caching / Security: [Cloudflare Pages](https://pages.cloudflare.com/)
+
+## OS Platform
+
+I'm a polygot, and try not to focus on a single platform.  These are ordered in what I use most to least.
+
+- MacOS 26 + Kali Linux VM
+- ChromeOS /w Debian Linux dev environment
+- Windows 11
+
 
 ## Browser
 
-- [Brave](https://brave.com/) Privacy focused browser, fork of Chrome
+- [Brave](https://brave.com/) a privacy focused web browser, fork of Chrome
+
+## Useful CyberSecurity Tools
+
+- [Kali](https://www.kali.org/) – A Linux distribution packed with penetration testing and security auditing tools.
+- [Metasploit](https://www.metasploit.com/) – A framework for developing, testing, and executing exploit code against target systems.
+- [TruffleHog](https://trufflesecurity.com/trufflehog) – A tool that scans code repositories for exposed secrets like API keys and credentials.
+- [Burp Suite](https://portswigger.net/burp) – A web vulnerability scanner and proxy tool for testing web application security.
+- [Wireshark](https://www.wireshark.org/) – A network protocol analyzer for capturing and inspecting network traffic in real time.
