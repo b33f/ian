@@ -22,7 +22,7 @@ organizations:
     url: https://neo4j.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ian lives in the United Kingdom with his wife and 2 kids.  Ian has a focus on Database Security but has a vast range of experience as a Software Engineer, Technical Support Engineer, Quality Assurance Engineer and Systems Administrator. Ian has led global technical teams for the majority of his 20 year professional career and holds several patents in the areas of cybersecurity, virtualisation and server hardware design.
+bio: Ian lives in the United Kingdom with his wife and 2 kids.  Ian is a Product Manager with a focus on cybersecurity but he has a vast range of experience as a Software Engineer, Technical Support Engineer, Quality Assurance Engineer and Systems Administrator. Ian has led global technical teams for the majority of his 20 year professional career and holds several patents in the areas of cybersecurity, virtualisation and server hardware design.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -44,4 +44,4 @@ highlight_name: true
 website: ""
 ---
 
-Ian is a security expert and currently leading product security at Neo4j
+Ian is product manager, leading product security at [Neo4j](https://neo4j.com) the world leading graph database platform.
