@@ -26,9 +26,9 @@ The strength of a password is measured in bits of entropy, which quantifies the 
 
 Which is the stronger password ?
 
-**g72$l#pT9a** or **..CAT...................**
+**g72$l#pT9a** or **..COW...................**
 
-The longer password, even one using a smaller character set, can provide significantly more entropy than a short, complex one. This is because the entropy calculation is exponential, with password length having a greater impact than character set size.  This is a silly example and using a single dictionary word such as CAT isn't reccomended.
+The longer password, even one using a smaller character set, can provide significantly more entropy than a short, complex one. This is because the entropy calculation is exponential, with password length having a greater impact than character set size.  This is a silly example and using a single dictionary word such as COW isn't reccomended.
 
 An actual effective and memorable approach to password creation is to use a long passphrase composed of multiple random words, ideally separated by special characters.  Many password managers will be able to auto generate these for you.
 
@@ -38,7 +38,7 @@ The following table demonstrates how a long passphrase can provide more security
 | ------------------------     | ------ | ------------                      | --------------- |
 | P@55w0rd!                    | 9      | 82 (upper, lower, digit, special) | ~59 bits  |
 | g72$l#pT9a                   | 10     | 82 (upper, lower, digit, special) | ~66 bits  |
-| ..CAT....................    | 25     | 49 (upper, special)               | ~140 bits |
+| ..COW....................    | 25     | 49 (upper, special)               | ~140 bits |
 | correct-horse-battery-staple | 28     | 37 (lower, digit, hyphen)         | ~146 bits |
 | 4Turtles!all\^the\^way\^down | 25     | 82 (upper, lower, digit, special) | ~164 bits |
 
