@@ -20,7 +20,7 @@ tags:
 ---
 
 ## The Power of Passphrases: A Better Approach to Password Security
-The conventional advice for passwords to use a complex string of random characters, but this is nonsense! Unreadable random characters will cause people to use short passwords like *P@55w0rd!*, or even worse write them down on a sicky note attached to the monitor.
+The conventional advice for passwords to use a complex string of random characters, but this is nonsense! Unreadable random characters will cause people to use short passwords like **P@55w0rd!**, or even worse write them down on a sicky note attached to the monitor.
 
 The strength of a password is measured in bits of entropy, which quantifies the randomness and unpredictability of the password.
 
@@ -28,7 +28,7 @@ Which is the stronger password ?
 
 **g72$l#pT9a** or **..CAT...................**
 
-The longer password, even one using a smaller character set, can provide significantly more entropy than a short, complex one. This is because the entropy calculation is exponential, with password length having a greater impact than character set size.  This is a silly example and using a single dictionary word isn't reccomended.
+The longer password, even one using a smaller character set, can provide significantly more entropy than a short, complex one. This is because the entropy calculation is exponential, with password length having a greater impact than character set size.  This is a silly example and using a single dictionary word such as CAT isn't reccomended.
 
 An actual effective and memorable approach to password creation is to use a long passphrase composed of multiple random words, ideally separated by special characters.  Many password managers will be able to auto generate these for you.
 
