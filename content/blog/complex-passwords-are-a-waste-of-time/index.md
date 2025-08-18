@@ -32,7 +32,14 @@ The longer password, even one using a smaller character set, can provide signifi
 
 An actual effective and memorable approach to password creation is to use a long passphrase composed of multiple random words, ideally separated by special characters.  Many password managers will be able to auto generate these for you.
 
-The following table demonstrates how a long passphrase can provide more security than a standard complex password, based on a simple entropy calculation.
+The following table demonstrates how a long passphrase can provide more security than a standard complex password, based on a simple entropy calculation.  It's calculated using the formula E = log₂(RL), where E is the entropy in bits, R is the size of the character set, and L is the length of the password.
+
+Let's say a password uses lowercase letters (R=26) and has a length of 8 (L=8):
+
+Possible combinations: 26^8 = 208,827,064,576
+
+Entropy: log₂(268) ≈ 37.6 bits
+
 
 |Password Example              | Length | Character Set                     | Bits of Entropy |
 | ------------------------     | ------ | ------------                      | --------------- |
