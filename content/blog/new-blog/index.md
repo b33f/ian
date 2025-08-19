@@ -1,6 +1,6 @@
 ---
 title: 🎉 Introduction to the blog
-summary: Published a post to the new blog site
+summary: A blog covering cybersecurity, databases, open source and technology topics in general.
 date: 2025-08-17
 
 # Featured image
