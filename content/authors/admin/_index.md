@@ -44,4 +44,4 @@ highlight_name: true
 website: ""
 ---
 
-Ian is a product manager, leading product security at [Neo4j](https://neo4j.com) the world leading graph database platform. The advice, perspectives and opinions shared here are my own and do not represent the views of Neo4j.
+<div style="padding: 0 20px;">Ian is a product manager, leading product security at Neo4j the world leading graph database platform. The advice, perspectives and opinions shared here are my own and do not represent the views of Neo4j.</div>
