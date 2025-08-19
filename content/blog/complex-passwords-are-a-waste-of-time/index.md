@@ -43,11 +43,14 @@ Entropy: log₂(26^8) ≈ 37.6 bits
 
 |Password Example              | Length | Character Set                     | Bits of Entropy |
 | ------------------------     | ------ | ------------                      | --------------- |
-| P@55w0rd!                    | 9      | 82 (upper, lower, digit, special) | ~59 bits  |
-| g72$l#pT9a                   | 10     | 82 (upper, lower, digit, special) | ~66 bits  |
+| P@55w0rd!                    | 9      | 82 (upper, lower, digit, special) | ~57 bits  |
+| g72$l#pT9a                   | 10     | 82 (upper, lower, digit, special) | ~64 bits  |
 | ..COW....................    | 25     | 49 (upper, special)               | ~140 bits |
-| correct-horse-battery-staple | 28     | 37 (lower, digit, hyphen)         | ~146 bits |
-| 4Turtles!all\^the\^way\^down | 25     | 82 (upper, lower, digit, special) | ~164 bits |
+| correct-horse-battery-staple | 28     | 37 (lower, digit, hyphen)         | ~145 bits |
+| 4Turtles!all\^the\^way\^down | 25     | 82 (upper, lower, digit, special) | ~160 bits |
+
+A massive offline cracking cluster (assuming one hundred trillion guesses per second) would take 1 week to bruteforce crack **g72$l#pT9a** vs  6 hundred million trillion centuries to crack **..COW....................**
+
 
 There are instances where a strong password is required, such as for a password manager's master password. The truth is, passwords don't matter as much as most people think.
 
