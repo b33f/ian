@@ -27,7 +27,7 @@ tags:
 ## 1. Evolving Tactics
 Cybercriminals are increasingly sophisticated. Rather than relying on obvious exploits, attackers use social engineering (phishing, voice manipulation, SIM swapping, etc) to trick trusted individuals into helping them with their attacks.
 
-## 2. Advanced Phishing Techniques, hypercharged with AI
+## 2. Advanced Social Engineering Techniques, Hypercharged With AI
 - **Spear-phishing**: Highly targeted emails that mimic trusted contacts or organizations. This technique has been used for decades, but the difference now is you can no longer look for obvious typos or unusual words and phrases in the email.  AI tools can accurately replicate any individual's writing style and they are able to help non-native english attackers avoid the usual language mistakes that were a common red-flag.
 - **Voice phishing (vishing)**: Attackers call help desks or employees, impersonating legitimate staff to reset passwords or MFA. With modern AI tools it is possible to simulate someone's voice with very little source material to train on, so this attack works even if the victim's voice is known to the reciever of the call.  More advanced attackers are even making deep-fake avatars that can fool employees on a very realistic video call !
 - **SIM-swapping & MFA fatigue**: Social manipulation techniques that weaken authentication safeguards.  An AI chatbot can interact with a telecom provider's support chat capability in a realistic human manner, tricking them into performing the sim-swap and this can be used to automate the attack end-to-end at scale.   AI can also be used to study a target victim and spot patterns of behaviours through open-source intelligence, allowing an attacker to strike at the perfect time to have the highest chance of success.
@@ -39,7 +39,7 @@ No matter how strong technical barriers are, humans often remain the most exploi
 
 ## Scattered Spider
 
-**Scattered Spider** also known as 0ktapus, Starfraud, UNC3944, Scatter Swine, Octo Tempest, and Muddled Libra are a threat actor who have been recently hitting some of the largest companies around and primarily using social engineering techniques against their IT service providers to cause $ millions in damages.
+**Scattered Spider** also known as 0ktapus, Starfraud, UNC3944, Scatter Swine, Octo Tempest, and Muddled Libra are a threat actor who have been recently hitting some of the largest companies around and primarily using social engineering techniques against their IT service providers to cause $ millions if not billions in damages.
 
 You can read more about the group with intelligence data from, [Crowdstrike](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-observes-scattered-spider-escalate-attacks/) and [Google / Mandiant](https://cloud.google.com/blog/topics/threat-intelligence/unc3944-proactive-hardening-recommendations)
 
