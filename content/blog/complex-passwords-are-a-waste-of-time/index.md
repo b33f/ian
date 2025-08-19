@@ -38,7 +38,7 @@ Let's say a password uses lowercase letters (R=26) and has a length of 8 (L=8):
 
 Possible combinations: 26^8 = 208,827,064,576
 
-Entropy: log₂(268) ≈ 37.6 bits
+Entropy: log₂(26^8) ≈ 37.6 bits
 
 
 |Password Example              | Length | Character Set                     | Bits of Entropy |
