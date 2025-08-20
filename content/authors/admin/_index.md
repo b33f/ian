@@ -44,4 +44,4 @@ highlight_name: true
 website: ""
 ---
 
-<div style="padding: 0 20px;">Ian is a product manager, leading product security at Neo4j the world leading graph database platform. The advice, perspectives and opinions shared here are my own and do not represent the views of Neo4j.</div>
+<div style="padding: 0 20px;">Ian is a product manager, leading product security at Neo4j - the world leading graph database platform. The advice, perspectives and opinions shared here are my own and do not represent the views of Neo4j.</div>
