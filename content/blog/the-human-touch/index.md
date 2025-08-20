@@ -28,9 +28,9 @@ tags:
 Cybercriminals are increasingly sophisticated. Rather than relying on obvious exploits, attackers use social engineering (phishing, voice manipulation, SIM swapping, etc) to trick trusted individuals into helping them with their attacks.
 
 ## 2. Advanced Social Engineering Techniques, Hypercharged With AI
-- **Spear-phishing**: Highly targeted emails that mimic trusted contacts or organizations. This technique has been used for decades, but the difference now is you can no longer look for obvious typos or unusual words and phrases in the email.  AI tools can accurately replicate any individual's writing style and they are able to help non-native english attackers avoid the usual language mistakes that were a common red-flag.
-- **Voice phishing (vishing)**: Attackers call help desks or employees, impersonating legitimate staff to reset passwords or MFA. With modern AI tools it is possible to simulate someone's voice with very little source material to train on, so this attack works even if the victim's voice is known to the reciever of the call.  More advanced attackers are even making deep-fake avatars that can fool employees on a very realistic video call !
-- **SIM-swapping & MFA fatigue**: Social manipulation techniques that weaken authentication safeguards.  An AI chatbot can interact with a telecom provider's support chat capability in a realistic human manner, tricking them into performing the sim-swap and this can be used to automate the attack end-to-end at scale.   AI can also be used to study a target victim and spot patterns of behaviours through open-source intelligence, allowing an attacker to strike at the perfect time to have the highest chance of success.
+- **Spear-phishing**: Highly targeted emails that mimic trusted contacts or organizations. This technique has been used for decades, but the difference now is you can no longer look for obvious typos or unusual words and phrases in the email.  AI tools can accurately replicate any individual's writing style and they are able to help non-native english attackers avoid the usual language mistakes that were once a common red-flag.
+- **Voice phishing (vishing)**: Attackers call help desks or employees, impersonating legitimate staff to reset passwords or MFA. With [modern AI tools](https://elevenlabs.io/voice-cloning) it is possible to clone someone's voice with very little source material to train on, so this attack works even if the victim's voice is known to the reciever of the call.  More advanced attackers are even making [deep-fake avatars](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk) that can fool employees on a very realistic video call !
+- **SIM-swapping & MFA fatigue**: Social manipulation techniques that weaken authentication safeguards.  An AI chatbot can interact with a telecom provider's support chat capability in a realistic human manner, tricking them into performing the sim-swap and this can be used to automate the attack end-to-end at scale. Cifas, the UK’s leading fraud prevention service, [reported](https://www.cifas.org.uk/newsroom/huge-surge-see-sim-swaps-hit-telco-and-mobile) that SIM swap fraud cases are surging by 1,055% in 2024 !   AI can also be used to study a target victim and spot patterns of behaviours through open-source intelligence, allowing an attacker to strike at the perfect time to have the highest chance of success.
 
 ## 3. The Human Element: A Persistent Vulnerability
 No matter how strong technical barriers are, humans often remain the most exploitable link. Social pressure, flawed verification protocols, and misplaced trust can bypass even the most advanced defenses.
@@ -51,8 +51,8 @@ Let's look at a couple of their recent attacks.
 
 **Overview:**
 
-- In **April 2025**, marks & Spencer (M&S) announced a cyber incident after disruptions to contactless payments and click-and-collect services over the Easter weekend.
-- The attackers, identified as the hacking group **Scattered Spider**, breached M&S’s systems by exploiting a **third-party IT vendor’s service desk**, believed to be operated by **Tata Consultancy Services (TCS)**.
+- In **April 2025**, marks & Spencer (M&S) [announced a cyber incident](https://corporate.marksandspencer.com/cyber-update) after disruptions to contactless payments and click-and-collect services over the Easter weekend.
+- The attackers, later identified as the hacking group **Scattered Spider**, breached M&S’s systems by exploiting a **third-party IT vendor’s service desk**, believed to be operated by **Tata Consultancy Services (TCS)**.
 - Through social engineering, attackers posed as internal personnel and persuaded service desk staff to reset credentials, giving them access to domain systems.
 - They extracted the `NTDS.dit` Active Directory file, cracked password hashes, and executed the **DragonForce ransomware** across VMware ESXi systems, crippling e-commerce, payment, and logistics systems.
 
@@ -78,8 +78,8 @@ Let's look at a couple of their recent attacks.
 
 **Situation:**
 
-- In **August 2023**, Clorox experienced a ransomware attack orchestrated by Scattered Spider.
-- In **July–August 2025**, Clorox filed a **$380 million lawsuit** against IT provider Cognizant, alleging negligence and protocol violations by its service desk.
+- In **August 2023**, Clorox experienced a ransomware attack orchestrated by **Scattered Spider**.
+- In **July–August 2025**, [Clorox filed a **$380 million lawsuit**](https://www.securityweek.com/clorox-sues-cognizant-for-380-million-over-2023-hack/) against IT provider Cognizant, alleging negligence and protocol violations by its service desk.
 
 **What Went Wrong:**
 
