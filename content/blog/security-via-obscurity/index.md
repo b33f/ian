@@ -1,5 +1,5 @@
 ---
-title: 🚪🔑 Security through Obscurity
+title: 🚪🔑 Security through Obscurity, a Trap-Door
 summary: An outdated idea that fails time and time again.
 date: 2025-08-20
 
