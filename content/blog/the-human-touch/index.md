@@ -1,5 +1,5 @@
 ---
-title: 👥 ⛓️ Social Engineering & Phishing in a AI powered world
+title: 👥 🎣 Social Engineering & Phishing in a AI powered world
 summary: Why Humans Are Often the Weakest Link in Cybersecurity
 date: 2025-08-19
 
@@ -37,14 +37,14 @@ No matter how strong technical barriers are, humans often remain the most exploi
 
 ---
 
-## Scattered Spider
+## Scattered Spider 🕷
 
 **Scattered Spider** also known as 0ktapus, Starfraud, UNC3944, Scatter Swine, Octo Tempest, and Muddled Libra are a threat actor who have been recently hitting some of the largest companies around and primarily using social engineering techniques against their IT service providers to cause $ millions if not billions in damages.
 
 You can read more about the group with intelligence data from, [Crowdstrike](https://www.crowdstrike.com/en-us/blog/crowdstrike-services-observes-scattered-spider-escalate-attacks/) and [Google / Mandiant](https://cloud.google.com/blog/topics/threat-intelligence/unc3944-proactive-hardening-recommendations)
 
 
-Let's look at a couple of their recent attacks.
+Let's look at a couple of their recent attacks, for which a florida man was recently [sentenced to 10 years in prison](https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/).
 
 
 ## Case Study: **Marks & Spencer** Attack
