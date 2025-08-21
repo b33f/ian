@@ -15,6 +15,8 @@ tags:
   - Zero Trust
   - MFA
   - VPN
+  - Backdoor
+  - Encryption
 ---
 
 # Why I Hate Security through Obscurity
