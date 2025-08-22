@@ -20,7 +20,7 @@ tags:
 
 # Stop Calling it SSL. Seriously
 
-Yes you read that title right. If you are writing SSL in 2025 you are doing it wrong. That polite little acronym stuck around as a habit long after the protocol it named moved on. It is time to speak clearly and call things by their actual name which is TLS
+Yes you read that title right. If you are writing SSL in 2025 you are doing it wrong. That polite little acronym stuck around as a habit long after the protocol it named moved on. It is time to speak clearly and call things by their actual name which is TLS. All versions of SSL are now deprecated and should no longer be used.
 
 ## A short history of SSL and what it did
 

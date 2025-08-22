@@ -48,7 +48,7 @@ Sometimes the danger is not a vendor but a standard that looks official. The Dua
 ## Why VPNs hide poor security design
 A Virtual Private Network (VPN) gives you network level access. That is fine when you actually need it, but it is a blunt instrument. A VPN treats the network as a trust boundary and often implicitly grants broad lateral movement once you are in. Compromised credentials or vulnerable VPN appliances become keys to an entire castle. Zero trust replaces that old model by enforcing access per application and per resource based on identity, device posture and context rather than granting broad rights just because someone connected over a tunnel.
 
-## Why I love open source and audits
+## Why I love open source and audited tools
 Open source does not magically mean secure. But open source lets independent experts audit, test and improve code. Transparency enables reproducible builds, supply chain scrutiny and faster detection of vulnerabilities. When cryptography, libraries and critical infrastructure are public, anyone can evaluate the math and the implementation. That is the opposite of trusting a black box because someone told you to.
 
 ## Google BeyondCorp
