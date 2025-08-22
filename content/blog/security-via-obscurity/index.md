@@ -6,7 +6,7 @@ date: 2025-08-20
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: 'A glowing key hidden under the door mat'
 
 authors:
   - admin
