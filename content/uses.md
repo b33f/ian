@@ -28,11 +28,3 @@ I'm a polygot, and try not to focus on a single platform.  These are ordered in 
 And on all of them I use the same browser
 
 - [Brave](https://brave.com/) a privacy focused web browser, fork of Chrome
-
-## Useful Cybersecurity Tools
-
-- [Kali](https://www.kali.org/) – A Linux distribution packed with penetration testing and security auditing tools.
-- [Metasploit](https://www.metasploit.com/) – A framework for developing, testing, and executing exploit code against target systems.
-- [TruffleHog](https://trufflesecurity.com/trufflehog) – A tool that scans code repositories for exposed secrets like API keys and credentials.
-- [Burp Suite](https://portswigger.net/burp) – A web vulnerability scanner and proxy tool for testing web application security.
-- [Wireshark](https://www.wireshark.org/) – A network protocol analyzer for capturing and inspecting network traffic in real time.

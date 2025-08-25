@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2025-08-17
 type: landing
 sections:
   - block: resume-biography
