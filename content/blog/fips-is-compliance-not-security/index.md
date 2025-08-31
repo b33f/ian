@@ -1,5 +1,5 @@
 ---
-title: FIPS is compliance not security
+title: 🧑‍⚖️ FIPS is compliance not security
 summary: Do not use FIPS expecting stronger security
 date: 2025-08-29
 
