@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Passkey | Ian McCloy Blog</title><link>https://ianmccloy.com/tag/passkey/</link><atom:link href="https://ianmccloy.com/tag/passkey/index.xml" rel="self" type="application/rss+xml"/><description>Passkey</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate><image><url>https://ianmccloy.com/media/icon_hu_dfae8326bdc3b263.png</url><title>Passkey</title><link>https://ianmccloy.com/tag/passkey/</link></image><item><title>🔒 Complex passwords are a waste of time</title><link>https://ianmccloy.com/blog/complex-passwords-are-a-waste-of-time/</link><pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate><guid>https://ianmccloy.com/blog/complex-passwords-are-a-waste-of-time/</guid><description>&lt;h2 id="the-power-of-passphrases-a-better-approach-to-password-security">The Power of Passphrases: A Better Approach to Password Security&lt;/h2>
+&lt;p>The conventional advice for passwords to use a complex string of random characters, but this is nonsense! Unreadable random characters will cause people to use short passwords like &lt;strong>P@55w0rd!&lt;/strong>, or even worse write them down on a sicky note attached to the monitor.&lt;/p>
+&lt;p>The strength of a password is measured in bits of entropy, which quantifies the randomness and unpredictability of the password.&lt;/p>
+&lt;p>Which is the stronger password ?&lt;/p>
+&lt;p>&lt;strong>g72$l#pT9a&lt;/strong> or &lt;strong>..COW&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;.&lt;/strong>&lt;/p>
+&lt;p>The longer password, even one using a smaller character set, can provide significantly more entropy than a short, complex one. This is because the entropy calculation is exponential, with password length having a greater impact than character set size. This is a silly example and using a single dictionary word such as COW isn&amp;rsquo;t reccomended.&lt;/p>
+&lt;p>An actual effective and memorable approach to password creation is to use a long passphrase composed of multiple random words, ideally separated by special characters. Many password managers will be able to auto generate these for you.&lt;/p>
+&lt;p>The following table demonstrates how a long passphrase can provide more security than a standard complex password, based on a simple entropy calculation. It&amp;rsquo;s calculated using the formula E = log₂(RL), where E is the entropy in bits, R is the size of the character set, and L is the length of the password.&lt;/p>
+&lt;p>Let&amp;rsquo;s say a password uses lowercase letters (R=26) and has a length of 8 (L=8):&lt;/p>
+&lt;p>Possible combinations: 26^8 = 208,827,064,576&lt;/p>
+&lt;p>Entropy: log₂(26^8) ≈ 37.6 bits&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Password Example&lt;/th>
+&lt;th>Length&lt;/th>
+&lt;th>Character Set&lt;/th>
+&lt;th>Bits of Entropy&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>P@55w0rd!&lt;/td>
+&lt;td>9&lt;/td>
+&lt;td>82 (upper, lower, digit, special)&lt;/td>
+&lt;td>~57 bits&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>g72$l#pT9a&lt;/td>
+&lt;td>10&lt;/td>
+&lt;td>82 (upper, lower, digit, special)&lt;/td>
+&lt;td>~64 bits&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>..COW&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;..&lt;/td>
+&lt;td>25&lt;/td>
+&lt;td>49 (upper, special)&lt;/td>
+&lt;td>~140 bits&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>correct-horse-battery-staple&lt;/td>
+&lt;td>28&lt;/td>
+&lt;td>37 (lower, digit, hyphen)&lt;/td>
+&lt;td>~145 bits&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4Turtles!all^the^way^down&lt;/td>
+&lt;td>25&lt;/td>
+&lt;td>82 (upper, lower, digit, special)&lt;/td>
+&lt;td>~160 bits&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>A massive offline cracking cluster (assuming one hundred trillion guesses per second) would take 1 week to bruteforce crack &lt;strong>g72$l#pT9a&lt;/strong> vs 6 hundred million trillion centuries to crack &lt;strong>..COW&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;..&lt;/strong>&lt;/p>
+&lt;p>There are instances where a strong password is required, such as for a password manager&amp;rsquo;s master password. The truth is, passwords don&amp;rsquo;t matter as much as most people think.&lt;/p>
+&lt;p>The major cyberattacks that we read about in the media are not caused by brute force attacking passwords, but about stealing them for direct access to accounts. So no matter what password complexity rules you follow, it doesn&amp;rsquo;t matter. It&amp;rsquo;s still important to use unique passwords, but instead of focusing on creating the perfect password, we should be focusing on using multi-factor authentication (MFA) and ensuring that great threat detection is in-place to truly protect our accounts.&lt;/p>
+&lt;p>Microsoft research, based on actual threats to their massive Azure cloud architecture, explains this concept really well in their blog post
+&lt;/p>
+&lt;p>It&amp;rsquo;s also worth mentioning that the newer
+, which has been adopted by major tech players, builds in MFA, can be used in a passwordless model, and is far far more secure than using passwords.&lt;/p></description></item></channel></rss>

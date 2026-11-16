@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ianmccloy.com/sitemap.xml
