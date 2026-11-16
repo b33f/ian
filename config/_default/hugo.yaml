@@ -12,7 +12,7 @@ baseURL: 'https://ianmccloy.com/' # Website URL
 
 cascade:
   # Blog post options
-  - _target:
+  - target:
       path: /blog/**
       kind: page
     pager: true
@@ -62,8 +62,13 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 95
   anchor: smart
+  jpeg:
+    quality: 95
+  webp:
+    quality: 95
+  avif:
+    quality: 95
 timeout: 600000
 taxonomies:
   tag: tags
